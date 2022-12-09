@@ -1,0 +1,51 @@
+{
+  "name": "Chfry Token list",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+  "timestamp": "2021-07-25 00:00:00.000+00:00",
+  "tokens": [{
+      "chainId": 42,
+      "address": "0x749B1c911170A5aFEb68d4B278cD5405C718fc7F",
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0xb450d49CaF849875d63ADDdd5868EC1A8bfF2d29",
+      "name": "ChfryChainlink Token",
+      "symbol": "Chainlink",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0x5D14d5F575a8B17801633fccaa5C0Ed78e657BdA",
+      "name": "ChfryWBTC Token",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0x3878E7d2a355FB01a06db656690Cb8795f6663F2",
+      "name": "ChfryChainlink Token",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "chainId": 42,
+      "address": "0xbaB87fE24Df242c80e0A4b59B70Eabd0b4F20823",
+      "name": "ChfryChainlink Token",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+  ]
+}

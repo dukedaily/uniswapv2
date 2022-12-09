@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"flatten/UniswapV2Factory.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"flatten/UniswapV2Factory.sol": {
+			"keccak256": "0x7dc05e7595d79663253fad7a3552e7412dad6718bc514f4b22407722b0b74751",
+			"urls": [
+				"bzz-raw://98e181e7ac5aea26848858f3663242ac2b1729e2bc1bced2e1635acb7c941ea8",
+				"dweb:/ipfs/QmUanb4bTqr8MKZEYWzGy5nZ1QLvm9sds5GMFBA1K1KxQE"
+			]
+		}
+	},
+	"version": 1
+}
